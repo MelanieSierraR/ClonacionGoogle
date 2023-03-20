@@ -7,7 +7,7 @@ Hola soy Melanie Sierra estudiante de Tecnolochicas pro donde a continuacion voy
 * [1. Intro]
 * [2. ¿Qué construi?]
 * [3. Objetivo del Proyecto]
-* [4. Link a DEMO.
+* [4. Link a DEMO.]
 ****
 
 ## 1. Intro
