@@ -5,11 +5,9 @@ Hola soy Melanie Sierra estudiante de Tecnolochicas pro donde a continuacion voy
 ## **ÍNDICE**
 
 * [1. Intro]
-* [2. Demo]
-* [3. ¿Qué construi?]
-* [4. Objetivos de Aprendizaje]
-* [5. Requisitos]
-
+* [2. ¿Qué construi?]
+* [3. Objetivo del Proyecto]
+* [4. Link a DEMO.
 ****
 
 ## 1. Intro
